@@ -14,6 +14,7 @@ nome = "Rafael"
 
 # Concatenação com o +
 print("Olá " + nome)
+    
 
 # Entrada de dados pelo terminal. Por padrão toda entrada é string
 nome = input("Digite seu nome: ")
